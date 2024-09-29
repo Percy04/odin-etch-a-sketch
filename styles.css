@@ -1,0 +1,33 @@
+body {
+    flex: flex;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+#header {
+    padding: 8px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    outline: solid;
+    margin-top: 2em;
+    margin-left: 42em;
+    flex-wrap: wrap;
+    width: 640px;
+    height: 640px;
+}
+
+
+
+
+#but {
+    margin-left: 70em;
+    margin-top: 2em;
+    border-radius: 10px;
+    background-color: wheat;
+    padding: 10px;
+}
